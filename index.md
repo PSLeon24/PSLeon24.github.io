@@ -6,7 +6,7 @@ title: FORGE - Facial Optimization for Robust Generative Enhancement Attack
 authors:
     To be written.
 affiliations:
-    Visual Intelligence and Perception Laboratory, Pusan National University
+    To be written.
 paper: #
 video: #
 code: #
@@ -18,7 +18,7 @@ data: #
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-FORGE (Facial Optimization for Robust Generative Enhancement Attack) introduces a novel adversarial attack strategy to disrupt deepfake customization in latent diffusion models (LDMs). Our method leverages Face-Parsing-guided perturbation amplification and Superpixel-based random noise scaling to selectively apply adversarial perturbations to perceptually important facial regions, optimizing the trade-off between attack effectiveness and visual imperceptibility. Moreover, we integrate Expectation over Transformation (EoT) to improve robustness against various image transformations, allowing our perturbations to remain effective against compression and geometric modifications. Extensive experiments on CelebA-HQ and VGGFace2 demonstrate that FORGE significantly reduces perturbation visibility while maintaining defense performance compared to existing approaches.
+To be written.
         </div>
     </div>
 </div>
@@ -26,7 +26,7 @@ FORGE (Facial Optimization for Robust Generative Enhancement Attack) introduces 
 ---
 
 ## Background
-Recent advancements in latent diffusion models (LDMs) have enabled highly realistic face synthesis, raising concerns over unauthorized identity replication and privacy violations. Existing anti-customization methods introduce noticeable perturbations, limiting their practicality. FORGE addresses these issues by selectively applying adversarial noise to high-textured facial regions while minimizing distortion in smooth areas.
+To be written.
 
 ## Objective
 to be written.
