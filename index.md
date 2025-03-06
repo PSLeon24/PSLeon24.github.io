@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: FORGE - Facial Optimization for Robust Generative Enhancement Attack
+title: FORGE: Facial Optimization for Robust Generative Enhancement Attack
 authors:
     To be written.
 affiliations:
