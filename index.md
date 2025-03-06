@@ -7,9 +7,10 @@ authors:
     To be written.
 affiliations:
     Visual Intelligence and Perception Laboratory, Pusan National University
-paper: To be added.
-video: To be added.
-data: To be added.
+paper: #
+video: #
+code: #
+data: #
 ---
 
 <!-- Using HTML to center the abstract -->
