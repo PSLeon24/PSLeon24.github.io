@@ -26,16 +26,16 @@ data: #
 ---
 
 ## Background
-To be written.
+TBD
 
 ## Motivation
-to be written.
+TBD
 
 
 ## Key Ideas
-1. To be written.
+1. TBD
 
-*Figure 1: To be added*
+*Figure 1: TBD*
 
 ## Citation
 ```
