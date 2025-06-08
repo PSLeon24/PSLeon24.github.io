@@ -42,7 +42,7 @@ to be written.
 @article{to be written,
   title={FORGE: Facial Optimization for Robust Generative Enhancement Attack},
   author={Anonymous},
-  journal={to be written},
+  journal={TBD},
   year={2025}
 }
 ```
