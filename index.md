@@ -32,7 +32,7 @@ TBA
 TBA
 
 
-## Key Ideas
+## Key Idea
 1. TBD
 
 *Figure 1: TBD*
