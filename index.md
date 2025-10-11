@@ -6,7 +6,7 @@ title: 비가시성과 강건성을 동시에 고려한 확산 모델 맞춤화 
 authors:
     Yeongmin Ko
 affiliations:
-    TBA
+    Pusan National University
 paper: #
 video: #
 code: #
