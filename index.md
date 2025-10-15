@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: 비가시성과 강건성을 동시에 고려한 확산 모델 맞춤화 방어 기법
+title: 딥페이크 생성 방지를 위한 확산 모델 맞춤형 방어 기법 연구
 authors:
     Yeongmin Ko
 affiliations:
